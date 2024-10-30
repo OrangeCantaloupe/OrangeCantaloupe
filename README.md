@@ -1,8 +1,8 @@
 # 👋 Hi, I’m OrangeCantaloupe
-👀 I’m interested in IT-security and data science.
-<br> 🌱 I’m currently learning how to contribute to more projects to kickstart my learning and involvement in communities. I am new to programming and the IT field, but have dabbled in HTML, CSS and Python.
-<br>💞️ I’m looking to collaborate on projects that help me evolve in my own learning.
-<br>📫 You can reach me on discord at: Divine Star#2188 or join my discord server at https://discord.gg/27XVJ2XWyE
+👀 I’m interested in IT-security, game development.
+<br> 🌱 I’m currently learning how to make an indie game to kickstart my learning. I work as a Junior Cloud Engineer working with Azure, am new to programming but have some experience with Python and Bicep (for Azure infrastructure).
+<br>💞️ I’m looking to contribute to the indie game
+<br>📫 You can reach me on discord at: DivineStar.
 
 <!---
 OrangeCantaloupe/OrangeCantaloupe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
